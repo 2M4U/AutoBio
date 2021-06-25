@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "handleRatelimit": true,
+    "timeZone": "Europe/London",
+    "animation": [
+        {
+            "text": "Developer | Coder | Security Researcher\n\nCheck out my repos:\nhttps://github.com/RudimentalHack\n\nKnown for many Discord-Based Project",
+            "banner": "https://thumbs.gfycat.com/SneakyBrilliantIaerismetalmark-size_restricted.gif",
+            "timeout": 15000
+        },
+        {
+            "text": "🌟 You Can Use Emojis Too 🌟",
+            "banner": "https://media4.giphy.com/media/3orieQ0mh5Mi5vSZZC/giphy.gif",
+            "timeout": 15000
+        }
+    ]
+}
