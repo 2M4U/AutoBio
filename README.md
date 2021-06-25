@@ -1,3 +1,7 @@
+# WORK IN PROGRESS - BETA
+
+---
+
 # Auto-Bio
 
 Animate your DiscordBio/Banner.
