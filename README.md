@@ -14,7 +14,7 @@ Animate your DiscordBio/Banner.
 #### Example Display
 <!-- <img src="https://cdn.discordapp.com/attachments/805157329128783912/848797321449963540/unknown.png" alt="Example"></img> -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRudementalHack%2FColdwarModderStatus&count_bg=%23B76E79&title_bg=%23555555&icon=riotgames.svg&icon_color=%23000000&title=Repository+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRudementalHack%2FAutoBio&count_bg=%23B76E79&title_bg=%23555555&icon=riotgames.svg&icon_color=%23000000&title=Repository+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ---
