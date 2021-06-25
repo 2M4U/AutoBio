@@ -2,7 +2,7 @@
   "name": "auto-bio",
   "version": "1.0.0",
   "description": "Custom Animated Bio For Discord",
-  "main": "status.js",
+  "main": "autobio.js",
   "directories": {
     "lib": "lib"
   },
